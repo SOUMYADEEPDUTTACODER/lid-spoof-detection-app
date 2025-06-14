@@ -1,0 +1,32 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.so
+*.ipynb_checkpoints
+
+# Model files
+*.pkl
+*.pt
+*.bin
+
+# Virtual environment
+.env/
+.venv/
+env/
+venv/
+
+# VSCode
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Python logs
+*.log
+
+# Ignore test audio files
+*.wav
+
+# Hugging Face cache
+~/.cache/huggingface/

@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+transformers
+librosa
+scikit-learn
+joblib
+torch
+soundfile
+numpy
+
